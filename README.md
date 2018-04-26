@@ -1,8 +1,8 @@
 # MovableButton
 
-!https://github.com/robin2005/MovableButton/blob/master/screenpot/screenpot_1.jpg!
+![image](https://github.com/robin2005/MovableButton/blob/master/screenpot/screenpot_1.jpg)
 
-h2. Installation
+## Installation
 
 * Drag the @FBMovableButton/FBMovableButton@ folder into your project.  
 * @#import "FBMovableButton.h"@
